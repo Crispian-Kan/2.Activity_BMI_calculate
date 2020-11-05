@@ -1,4 +1,4 @@
-package com.example.hw_2_2;
+package com.example.Project_BMI_Calculator;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
